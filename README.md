@@ -3,6 +3,10 @@
 ###
 
 <div align="center">
+     <img align="center" height="400" src="https://media.licdn.com/dms/image/v2/C4D03AQFOc7KA0R0yag/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658224915574?e=1729728000&v=beta&t=Rb-Qt6nKCf2IbqKiRIXYzlRdXcDHXN_KcailPnJEnfY"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karimsameh100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karimsameh100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
