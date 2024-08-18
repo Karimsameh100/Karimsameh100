@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-     <img align="center" width="400" height="500" src="https://media.licdn.com/dms/image/v2/C4D03AQFOc7KA0R0yag/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658224915574?e=1729728000&v=beta&t=Rb-Qt6nKCf2IbqKiRIXYzlRdXcDHXN_KcailPnJEnfY"  />
+     <img align="center" width="500" height="500" src="https://media.licdn.com/dms/image/v2/C4D03AQFOc7KA0R0yag/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658224915574?e=1729728000&v=beta&t=Rb-Qt6nKCf2IbqKiRIXYzlRdXcDHXN_KcailPnJEnfY"  />
 </div>
 
 <br clear="both">
@@ -21,6 +21,7 @@
 
 
 <div align="left">
+     <h3 align="center"> Skills I good at </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -88,12 +89,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href=" "><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 <a href=" ">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 <a href="https://www.linkedin.com/in/karim-sameh1/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 <a href="https://stackoverflow.com/users/24009482/karim-ssi">  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  /> </a>
-<a href="https://www.hackerrank.com/profile/karimsameh807"  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
+<a href="https://www.hackerrank.com/profile/karimsameh807" > <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
 </div>
 
 ###
