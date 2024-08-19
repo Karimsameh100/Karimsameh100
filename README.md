@@ -1,19 +1,22 @@
 <h2 align="left">Hi 👋! My name is Karim Sameh and I'm a  Full-stack developer  and Odoo developer, from  Cairo/Egypt</h2>
 
 ###
-
-<div align="center">
-     <img align="center" width="500" height="500" src="https://media.licdn.com/dms/image/v2/C4D03AQFOc7KA0R0yag/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658224915574?e=1729728000&v=beta&t=Rb-Qt6nKCf2IbqKiRIXYzlRdXcDHXN_KcailPnJEnfY"  />
-</div>
-
+<b>About Me:</b>
+<p> Welcome to my GitHub account,I'm highly motivated and detail-oriented developer with experience in Django, Flask,Odoo system, React, Python, JavaScript, Dart, and PostgreSQL. Graduated from Faculty of Computers and Information and trained with ITI for 4 months. I'm dedicated to delivering high-quality projects and staying up-to-date with industry trends. Let's connect and collaborate!</p>
+<hr/>
 <br clear="both">
 
 ###
 
 <div align="center">
+     <h3>Github status</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Karimsameh100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
+     <hr/>
+     <h3>Top language</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karimsameh100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div>
+
+<hr/>
 
 ###
 
@@ -88,7 +91,7 @@
 </div>
 
 ###
-
+<h3 align="left">Let's Connect</h3>
 <div align="center">
   <a href=" "><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 <a href=" ">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
@@ -96,13 +99,14 @@
 <a href="https://stackoverflow.com/users/24009482/karim-ssi">  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  /> </a>
 <a href="https://www.hackerrank.com/profile/karimsameh807" > <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
 </div>
+<hr/>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Karimsameh100/output/snake.svg" alt="Snake animation" />
-
+<b>Feel free to connect with me on GitHub or reach out to me directly to discuss potential projects, collaborations, or simply to chat about the latest tech trends.</b>
 ###
 
 <!---
